@@ -1,10 +1,16 @@
-All documentation for DokuWiki is available online
-at http://www.dokuwiki.org/
-
 For Installation Instructions see
 http://www.dokuwiki.org/install
 
-DokuWiki - 2004-2018 (c) Andreas Gohr <andi@splitbrain.org>
-                         and the DokuWiki Community
-See COPYING and file headers for license info
+INSTALLING DEPENDENCIES
+==
+
+Before cloning you must install git-lfs else website images won't download correctly from github.
+
+~~
+curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
+sudo apt-get install git-lfs
+git lfs install
+~~
+
+In order to get the images to download correctly you have to run `git lfs install` after installing the package, else images won't download properly.
 
