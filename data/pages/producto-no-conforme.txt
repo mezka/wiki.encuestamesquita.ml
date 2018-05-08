@@ -1,0 +1,4 @@
+=======Producto no-conforme=======
+----
+
+Se considera producto no-conforme a todas aquellas puertas que presenten alguno de los siguientes defectos: golpes, rayaduras, fallas en cerrajes y/o herrajes, defectos de pintura, o que no cumplan con los requerimientos del cliente que lo solicita.

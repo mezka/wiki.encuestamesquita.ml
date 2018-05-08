@@ -1,0 +1,38 @@
+======Armado de hojas======
+----
+
+=====Objetivo=====
+
+Definir los pasos necesarios para obtener el subproducto “Hoja terminada”.
+
+=====Alcance=====
+
+Este procedimiento es aplicable al área de producción.
+
+=====Responsabilidades=====
+
+En las áreas listadas a continuación se incluyen los presupuestos mínimos para el correcto desempeño del proceso en cuestión, lo cual no las limita solo a la aplicación de estos requerimientos.
+
+====Encargado de producción====
+
+  *Proveer los consumibles necesarios para completar esta instrucción.
+  *Asistir técnicamente al operador en los inconvenientes que puedan llegar a surgir al realizar la instrucción.
+  *Efectuar el control de calidad del subproducto resultante de esta operación.
+
+====Operario de planta====
+
+  *Es el encargado de llevar a cabo en tiempo y en forma los pasos constructivos de la operación.
+
+=====Desarrollo=====
+
+  -Entrega de documentos y consumibles
+    -El encargado de producción entrega al operario la OF y el PP, además de los consumibles necesarios para completar la instrucción.
+  -Control de documentos, consumibles y materias primas
+    -El operario lee la OF y el PP. Si nota alguna inconsistencia entre ambas, tiene alguna consulta sobre las especificaciones, o cree que no le fueron entregados los consumibles necesarios para la instalación; debe avisarlo al encargado de producción de inmediato.
+  -Acopio de plegado
+    -El operario obtiene de los racks el plegado que debe usar para armar la hoja
+  -Corte y preparación de placa ignifuga
+    -El operario prepara los cortes de placa ignifuga que corresponden a los productos de la OF.
+  -Presentación, encuadre, y soldado de hoja.
+    -El operario presenta la hoja y los cortes, hace las soldaduras necesarias.
+

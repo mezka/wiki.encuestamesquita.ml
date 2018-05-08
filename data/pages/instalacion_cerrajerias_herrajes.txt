@@ -1,0 +1,32 @@
+======Instalación de cerrajerías======
+----
+
+=====Objetivo=====
+
+Definir los pasos necesarios para la instalación de cerrajerías y herrajes.
+
+=====Alcance=====
+
+Este procedimiento es aplicable al área de producción.
+
+=====Responsabilidades=====
+
+En las áreas listadas a continuación se incluyen los presupuestos mínimos para el correcto desempeño del proceso en cuestión, lo cual no las limita solo a la aplicación de estos requerimientos.
+
+====Encargado de producción====
+
+  *Proveer los consumibles necesarios para completar esta instrucción.
+  *Asistir técnicamente al operador en los inconvenientes que puedan llegar a surgir al realizar la instrucción.
+  *Efectuar el control de calidad del subproducto resultante de esta operación.
+
+====Operario de planta====
+
+  *Es el encargado de llevar a cabo en tiempo y en forma los pasos constructivos de la operación.
+
+=====Desarrollo=====
+
+  -Entrega de documentos y consumibles: El encargado de producción entrega al operario la OF y el PP, además de los consumibles e insumos necesarios para completar la instrucción.
+  -Control de documentos, consumibles y materias primas: El operario lee la OF y el PP. Si nota alguna inconsistencia entre ambas, tiene alguna consulta sobre las especificaciones, o cree que no le fueron entregados los consumibles necesarios para la instalación; debe avisarlo al encargado de producción de inmediato.
+  -Aposte de puertas pintadas: El operario aposta abiertas las puertas en tandas de N puertas, según lo permita el espacio disponible, para las puertas dobles debe requerir la asistencia del ayudante del sector.
+  -Colocación de herrajes y cerrajerías: El operario coloca los herrajes correspondientes a la OT utilizando los agujeros previamente plantillados en el sector de armado.
+  -Traslado al sector designado: El operario traslada las puertas terminadas al sector de embalaje.

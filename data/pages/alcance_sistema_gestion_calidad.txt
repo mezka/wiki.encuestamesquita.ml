@@ -1,0 +1,24 @@
+======Alcance del sistema de gestión de calidad======
+----
+
+EQUIPAMIENTOS DE SEGURIDAD S.A adopta un Sistema de Gestión con el objetivo de demostrar su capacidad para realizar trabajos que cumplan con los requisitos aplicables a su actividad, en materia de Calidad.
+
+El cumplimiento de dichos requisitos se mide a través del seguimiento y medición de los procesos y de la satisfacción de los clientes, asimismo, se promueve la mejora continua mediante la realización de  auditorías internas, acciones correctivas y preventivas y de las decisiones tomadas durante la revisión del sistema por la dirección.
+
+Este Sistema de Gestión  es de aplicación a todos los productos comercializados por EQUIPAMIENTOS DE SEGURIDAD S.A siendo el alcance definido: 
+
+“Fabricación y venta de puertas cortafuego con o sin homologación, según la clasificación: RF 30, RF 60, RF 90 y RF 120”
+
+En base a las características del funcionamiento de EQUIPAMIENTOS DE SEGURIDAD S.A se excluye el requisito 7.3 Diseño y Desarrollo, de la norma ISO 9001:2008. Dicha exclusión se efectúa ya que los productos elaborados por EQUIPAMIENTOS DE SEGURIDAD S.A son estándares o sus requisitos y especificaciones han sido suministrados por sus Clientes. 
+EQUIPAMIENTOS DE SEGURIDAD S.A fabrica sus puertas en base a las siguientes Normas IRAM:
+         REFERENCIAS NORMATIVAS:
+
+	IRAM 11949: Resistencia al fuego de los elementos de construcción. Criterios de clasificación.
+
+	IRAM 11950: Resistencia al fuego de los elementos de la construcción. Método de ensayo.
+
+	IRAM 11951: Elementos de construcción. Resistencia al fuego. Método de ensayo de puertas y dispositivos de cerramiento.
+
+	IRAM 11951: Elementos de Construcción. Resistencia al fuego. Ensayos de elementos vidriados.
+
+Dicha exclusión no afecta a la capacidad o responsabilidad de la organización para proporcionar productos que cumplan con los requisitos de sus clientes y reglamentarios.

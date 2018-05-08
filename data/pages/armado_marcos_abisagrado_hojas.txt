@@ -1,0 +1,41 @@
+======Armado de marcos y abisagrado de hojas======
+----
+
+=====Objetivo=====
+
+Definir los pasos necesarios para construir el marco de una puerta y abisagrarle su respectiva hoja.
+
+=====Alcance=====
+
+Este procedimiento es aplicable al área de producción.
+
+=====Responsabilidades=====
+
+En las áreas listadas a continuación se incluyen los presupuestos mínimos para el correcto desempeño del proceso en cuestión, lo cual no las limita solo a la aplicación de estos requerimientos.
+
+  -Encargado de producción:
+    *Proveer los consumibles necesarios para completar esta instrucción.
+    *Asistir técnicamente al operador en los inconvenientes que puedan llegar a surgir al realizar la instrucción.
+    *Efectuar el control de calidad del subproducto resultante de esta operación.
+  -Operario de planta
+    *Es el encargado de llevar a cabo en tiempo y en forma los pasos constructivos de la operación.
+
+=====Desarrollo=====
+
+  -Entrega de documentos y consumibles: El encargado de producción entrega al operario la [[orden_de_fabricacion | orden de fabricación]] y el [[plano_de_produccion | plano de producción]], además de los consumibles necesarios para completar la instrucción.
+  -Control de documentos y consumibles: El operario lee la orden de fabricación y el plano de producción. Si nota alguna inconsistencia entre ambas, tiene alguna consulta sobre las especificaciones, o cree que no le fueron entregados los consumibles necesarios para la instalación; debe avisarlo al encargado de producción de inmediato.
+  -Armado de marco
+    -Soldado de [[jamba | jambas]] y [[dintel | dinteles]]: El operario obtiene las jambas y dinteles que corresponden a la puerta que figura en el plano de producción, presenta el dintel en la mesa de trabajo haciendo tope en los soportes preparados para ese fin, presenta las jambas y encastra todas las piezas, y escuadra cada una de las jambas con cada uno de los extremos del dintel y la suelda.
+  -Presentación, encuadre, y abisagrado de hoja
+    -El operario obtiene la hoja que corresponde a la puerta en fabricación, la presenta en el marco, encuadra utilizando cortafríos, y asegura con llaves inglesas los dos extremos superior e inferior del sector de bisagras de la hoja con el marco además de cualquiera de los dos extremos superior o inferior del sector de cerraduras de la hoja al marco.
+    -El operario presenta las bisagras en las posiciones predeterminadas en el plano de producción, luego suelda las bisagras con un punto en cada uno de sus extremos y un cordón en el centro de la misma.
+  -Fabricación y soldado de soportes fijos
+    -El operario corta una varilla cuadrada de la misma medida que la del [[paso_libre | paso libre]] de la puerta. Suelda los extremos de la misma a las caras interiores de las jambas, luego corta y suelda refuerzos diagonales entre la varilla y las cartas interiores de las jambas.
+  -Rebaje de rebarbas de soldadura
+    -El operario utiliza la amoladora para rebajar todas las rebarbas de soldadura.
+  -Fijación de la hoja al marco
+    -El operario fija la hoja al marco atornillando el doble contacto correspondiente al sector de cerraduras de la hoja al marco con tres tornillos: uno en la parte superior, otro en la parte inferior, y otro en el medio.
+  -Plantillado del cierrapuertas
+    -El operario realiza el plantillado para el cierrapuertas.
+  -Estibaje final
+    -El operario estiba la puerta terminada en el lugar predeterminado para tal fin.

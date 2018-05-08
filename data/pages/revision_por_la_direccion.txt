@@ -1,0 +1,39 @@
+======Revisión por la dirección======
+----
+=====Objetivo y alcance=====
+----
+
+Evaluar la eficacia, consistencia y cambios posibles del SG, así como la Política de Calidad y sus Objetivos a efectos de obtener una Mejora Continua por medio del análisis de los resultados.
+Aplicará a todas las actividades que afectan al SG definidas en el Manual del Sistema y en los Procedimientos vigentes.
+
+=====Responsabilidades=====
+----
+
+Representante de la Dirección: Aprobará el Procedimiento. Realizará con periodicidad anual la revisión del Sistema de Gestión de Calidad. Convocará a la reunión anual e informará a la Dirección, conjuntamente con el Responsable del Sistema de Gestión de Calidad.
+
+Responsable del Sistema de Gestión de Calidad: Informará a la Dirección. Aportará toda la información necesaria. Documentará desarrollo y resultados de la misma en el R-22 “Informe de la Revisión por la Dirección”.
+
+=====Desarrollo=====
+----
+
+La Dirección tendrá la responsabilidad de realizar anualmente, una reunión específica donde efectúe la Revisión del [[sistema_de_gestion_de_calidad|Sistema de Gestión de Calidad]].
+A la reunión, que se celebrará tras convocatoria por escrito efectuada por el Responsable del SGC con indicación de Fecha, Hora, Lugar de reunión y Temas a tratar, asistirán: Dirección, Representante de la Dirección, Responsable del Sistema de Gestión de Calidad y quien la Dirección considere conveniente.
+
+Se analizan los siguientes puntos como datos de entrada para la Revisión:
+
+  -Los resultados de auditorías y evaluaciones de cumplimiento con los requisitos legales y otros requisitos que la organización suscriba.
+  -La retroalimentación del cliente y las comunicaciones de las partes interesadas externas, incluidas las quejas;
+  -El desempeño de los procesos, la conformidad del producto de la organización.
+  -El grado de cumplimiento de los objetivos y metas
+  -El estado de las acciones correctivas y preventivas,
+  -Las acciones de seguimiento de revisiones por la dirección previas,
+  -Los cambios que podrían afectar al sistema de gestión, 
+  -Las recomendaciones para la mejora.
+
+El Responsable de Calidad documenta el R-22 Informe de Revisión por la Dirección, que firma junto con la Dirección  y archiva como Registro de Calidad, donde como resultado se indican todas las decisiones tomadas, responsables, fechas de ejecución y acciones relacionadas con:
+
+  -La mejora de la eficacia del sistema de gestión de la calidad y sus procesos.
+  -La mejora del servicio en relación a los requisitos del cliente.
+  -Las necesidades de recursos.
+  -Los posibles cambios en la política, objetivos, metas y otros elementos del sistema de gestión, coherentes con el compromiso de mejora continua.
+

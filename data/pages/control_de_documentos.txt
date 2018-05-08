@@ -1,0 +1,130 @@
+======Control de Documentos======
+----
+
+=====Objetivo y alcance=====
+----
+
+Establecer la metodología para la elaboración, emisión, revisión, aprobación, distribución, control, mantenimiento actualizado y archivo de los Documentos del [[sistema_de_gestion_de_calidad | Sistema de Gestión de Calidad]], incluidos los [[documento | documentos]] de origen externo.
+Este procedimiento aplicará a todas las áreas de la Organización, desde el momento en que se elabore o modifique un [[documento]], se difunda y se archive hasta el momento que se convierta en obsoleto. Por lo cual deberá ser usado por todo el personal que elabore, modifique y archive documentos que se deriven de su labor.
+
+=====Responsabilidades=====
+----
+
+====Direccion====
+Responsable de la aprobación de documentos del Sistema de Gestión de Calidad.
+Delega en el Representante de la Dirección la aprobación de todos los documentos del Sistema de  Gestión de Calidad exceptuando las Políticas y Manuales.
+
+====Representante de la direccion====
+Responsable de la aprobación de todos los documentos del Sistema de Gestión de la Calidad, exceptuando la Política de la Calidad y el Manual de la Calidad.
+
+====Responsable del Sistema de Gestion de la Calidad====
+Responsable de la identificación, emisión, distribución, control y modificaciones de los documentos.
+Asistir a los Responsables de Procesos en la elaboración de Documentos.
+Garantizar que el formato o plantilla para la elaboración de documentos esté disponible en la red para todos los usuarios.
+
+====Responsables de area====
+Velar que se cumplan, con carácter de obligatoriedad, los lineamientos establecidos en la presente normativa. Garantizar la buena conservación y disponibilidad de los documentos de su área respectiva.
+
+=====Desarrollo=====
+----
+
+Los diferentes Responsables de Área y el RESPONSABLE DEL SGC son los encargados de detectar la necesidad de elaborar documentación para dar soporte a los procesos de EQUIPAMIENTOS DE SEGURIDAD S.A y cumplir con requisitos de las normas implementadas. Asimismo, esta necesidad puede dar respuesta a una Oportunidad de Mejora o  a la implementación de Acciones Correctivas y/o Preventivas.
+
+Los registros son un tipo especial de documento y los mismos se controlan de acuerdo al P-02 Control de Registros.
+
+El Responsable de Área, elabora el borrador del nuevo documento con la colaboración de personal de los sectores involucrados y el RESPONSABLE DEL SGC.
+
+====Elaboracion====
+
+  * Todo documento debe ser elaborado usando la plantilla mostrada en el punto 4.3 “Formato”.
+  * El encabezado debe incluir:
+    * El Logo de EQUIPAMIENTOS DE SEGURIDAD S.A
+    * El tipo de documento
+    * El título del procedimiento
+    * La Fecha de emisión
+    * El Código que corresponda
+  * El pié de página debe incluir:
+    * Responsables de la Elaboración
+    * Aprobación del Documento con la fecha correspondiente a cada etapa.
+
+====Identificacion====
+
+  *A excepción de algunos casos, todos los documentos que sean necesarios para el mantenimiento del Sistema de Gestión deben tener un código asignado, legible y fácilmente identificable.
+  *Los registros que sean obtenidos por vías distintas, tales como: software, emails, entre otros, pueden prescindir del código; sin embargo, los mismos deben ser fácilmente identificables.
+
+La asignación del código debe realizarse según la siguiente estructuración.
+
+
+^ Clase de documento ^ Digito correlativo A ^ Digito correlativo B ^
+| 1 | 2 | 3 |
+
+Dónde:
+1: Identifica la Clase de Documento, según la tabla 1.
+2 y 3: son dos dígitos que se corresponden con un número correlativo comenzando por el 01
+
+Tabla 1. Clase de Documento
+
+^ Código ^ Descripción ^
+| M	 | Manual |
+| P	 | Procedimiento General |
+| IT	| Instructivo de Trabajo |
+| R	| Registro |
+	
+	
+Los Anexos, son documentos que se pueden desprender de cualquier otro tipo de documento. Se codificarán como:
+
+
+1	/	AX	-	2	3
+Dónde:
+1: el código completo del Documento Origen, según la tabla 1.
+2 y 3: son dos dígitos que se corresponden con un número correlativo comenzando por el 01
+
+*En todos los casos la codificación de los distintos tipos de Documentos será establecida por el RESPONSABLE DEL SGC.
+
+
+4.3 FORMATO
+Los documentos controlados del Sistema de Gestión deben cumplir con el contenido mínimo requerido en la siguiente tabla:
+
+Estructura general de los documentos
+
+^ Sección                                ^ Manual  ^ Procedimiento  ^ Instructivo  ^
+| Objetivo y Alcance                     |       O |              X |            X |
+| Definiciones                           |       O |              O |            O |
+| Responsabilidades                      |       O |              X |            X |
+| Condiciones generales y/o especificas  |       O |              O |            O |
+| Desarrollo                             |       O |              X |            X |
+| Documentación de referencia            |       O |              X |            X |
+| Historial de Modificaciones            |       X |              X |            X |
+| Anexos                                 |       O |              O |            O |
+| Equipos de Protección Personal         |     N/A |              O |            O |
+| Equipos                                |     N/A |              O |            O |
+| Materiales                             |     N/A |              O |            O |
+
+•	El formato a utilizar para la estructuración del punto anterior, es el siguiente:
+
+
+=====Elaboracion, revision, aprobacion=====
+----
+
+Los Responsables de cada área elaboran los documentos donde poseen injerencia y envían el documento al Departamento de Calidad para su revisión.
+
+El RESPONSABLE DEL SGC asegura que el documento generado cumpla con los lineamientos establecidos en este procedimiento y la Norma ISO 9001:2008.
+Todos los Procedimientos que se emitan serán registrados en R-01 Listado de Documentos, conservados los originales en formato papel con firma en original y archivados en bibliorato identificado con rótulo “ISO 9001” en la oficina del  RESPONSABLE DEL SGC. Los mismos podrán ser distribuidos en los lugares de uso en formato papel como copia controlada identificada con firma del RSGC y numero de copia según R-02.  Los receptores de deben firmar el R-02 Control de Copias Controladas, que se archiva por duplicado, quedando un original en poder del RESPONSABLE DEL SGC como conforme de entrega.
+
+Si la distribución fuera en formato electrónico a través de la red, deberán estar protegidos contra escritura o publicados en formato PDF. Los documentos en formato electrónico no contaran con firmas en su pie de página y serán publicados únicamente cuando se haya completado el circuito anterior de revisión y aprobación por el RESPONSABLE DEL SGC 
+
+El Responsable del Sistema Informático realiza el back up de los documentos en formato  electrónico, asegurando que los documentos permanezcan legibles e identificables. 
+La información es resguardada por medio de back up mensuales, que se conserva off-site.
+
+El personal de las distintas áreas puede proponer modificaciones a la documentación, Las variaciones podrán ser propuestas desde cualquiera de los Departamentos implicados a través del registro R-05 Parte de NC-OBS-OM-AC-AP
+
+Todas las modificaciones sobre un Documento se identifican en la Tabla de Historial del Documento, y automáticamente el Documento revisado y modificado adquiere un número correlativo de Revisión.
+
+Aprobada la nueva revisión, se distribuyen los correspondientes documentos en los lugares de uso y se retiran las copias obsoletas para su destrucción, a excepción de la copia original electrónica, que se separa del server y se archiva en una carpeta denominada DOCUMENTOS OBSOLETOS.
+
+=====Documentos externos=====
+
+El RESPONSABLE DEL SGC identifica y controla la documentación externa. La documentación externa utilizada por EQUIPAMIENTOS DE SEGURIDAD S.A en el desarrollo de sus actividades y procesos, aparece reflejada en el R-03 Listado de Documentación Externa, y no se codifica de manera interna. El registro mencionado contiene los siguientes campos: Título; Fecha (la que conste en el documento o la de recepción) y sitio de guarda.
+
+
+diagrama-todo

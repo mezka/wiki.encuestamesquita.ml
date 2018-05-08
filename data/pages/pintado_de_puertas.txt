@@ -1,0 +1,41 @@
+======Pintado de puertas======
+----
+
+=====Objetivo=====
+----
+
+Definir los pasos necesarios para el pintado de las puertas.
+
+=====Alcance=====
+----
+
+Este procedimiento es aplicable al área de producción.
+
+=====Responsabilidades=====
+----
+
+En las áreas listadas a continuación se incluyen los presupuestos mínimos para el correcto desempeño del proceso en cuestión, lo cual no las limita solo a la aplicación de estos requerimientos.
+
+====Encargado de producción====
+
+  *Proveer los consumibles necesarios para completar esta instrucción.
+  *Asistir técnicamente al operador en los inconvenientes que puedan llegar a surgir al realizar la instrucción.
+  *Efectuar el control de calidad del subproducto resultante de esta operación.
+
+====Operario de planta====
+
+  *Es el encargado de llevar a cabo en tiempo y en forma los pasos constructivos de la operación.
+
+=====Desarrollo=====
+----
+
+  -Entrega de documentos y consumibles: El encargado de producción entrega al operario la OF y el PP, además de los consumibles e insumos necesarios para completar la instrucción.
+  -Control de documentos, consumibles y materias primas: El operario lee la OF y el PP. Si nota alguna inconsistencia entre ambas, tiene alguna consulta sobre las especificaciones, o cree que no le fueron entregados los consumibles necesarios para la instalación; debe avisarlo al encargado de producción de inmediato.
+  -Preparación de la máquina de pintura y de los elementos de seguridad: El operario posiciona la maquina en el sector designado y la conecta a la red eléctrica, se pone el mameluco de pintura y la máscara de pintura.
+    *La máquina de pintura XXXX tiene una capacidad máxima de pintura de 4L
+    *La mezcla se compone de un 80% pintura antioxido gris mate y un 20% de diluyente.
+  -El operario prepara la pintura en un balde y llena el recipiente de la máquina.
+  -Aposte de las puertas: El operario prepara las puertas para pintar apostándolas abiertas en sentido vertical.
+  -Pintado de las puertas: El operario pinta las hojas de arriba a abajo en sentido horizontal y los marcos de arriba a abajo en sentido vertical ambos aplicando la pintura siempre desde una distancia de 30cm del material procurando no dejar ningún sector sin pintar.
+  -Traslado de las puertas secas: Una vez que una puerta ya está seca, el operario debe cerrarla. Si es una puerta simple, debe trasladarla con el carrito al sector de cerrajerías. Si es una puerta doble debe ser ayudado por el ayudante asignado al sector.
+

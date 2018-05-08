@@ -1,0 +1,15 @@
+a:2:{s:7:"current";a:10:{s:4:"date";a:2:{s:7:"created";i:1524437822;s:8:"modified";i:1524842947;}s:11:"last_change";a:8:{s:4:"date";i:1524842947;s:2:"ip";s:14:"200.125.75.102";s:4:"type";s:1:"C";s:2:"id";s:15:"armado_de_hojas";s:4:"user";s:5:"mezka";s:3:"sum";s:64:"↷ Página movida de mesquita:armado_de_hojas a armado_de_hojas";s:5:"extra";s:0:"";s:10:"sizechange";i:1766;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:15:"Armado de hojas";s:11:"description";a:2:{s:15:"tableofcontents";a:7:{i:0;a:4:{s:3:"hid";s:15:"armado_de_hojas";s:5:"title";s:15:"Armado de hojas";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:8:"objetivo";s:5:"title";s:8:"Objetivo";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:7:"alcance";s:5:"title";s:7:"Alcance";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:17:"responsabilidades";s:5:"title";s:17:"Responsabilidades";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:4;a:4:{s:3:"hid";s:23:"encargado_de_produccion";s:5:"title";s:24:"Encargado de producción";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:5;a:4:{s:3:"hid";s:18:"operario_de_planta";s:5:"title";s:18:"Operario de planta";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:6;a:4:{s:3:"hid";s:10:"desarrollo";s:5:"title";s:10:"Desarrollo";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:404:"Armado de hojas
+
+----------
+
+Objetivo
+
+Definir los pasos necesarios para obtener el subproducto “Hoja terminada”.
+
+Alcance
+
+Este procedimiento es aplicable al área de producción.
+
+Responsabilidades
+
+En las áreas listadas a continuación se incluyen los presupuestos mínimos para el correcto desempeño del proceso en cuestión, lo cual no las limita solo a la aplicación de estos requerimientos.";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:8:"relation";a:1:{s:10:"firstimage";s:0:"";}s:11:"plugin_move";a:3:{s:6:"origin";s:15:"armado_de_hojas";s:5:"pages";a:2:{i:0;a:2:{i:0;s:15:"armado_de_hojas";i:1;s:24:"mesquita:armado_de_hojas";}i:1;a:2:{i:0;s:24:"mesquita:armado_de_hojas";i:1;s:15:"armado_de_hojas";}}s:5:"media";a:0:{}}s:11:"contributor";a:1:{s:5:"mezka";N;}}s:10:"persistent";a:6:{s:4:"date";a:2:{s:7:"created";i:1524437822;s:8:"modified";i:1524842947;}s:11:"last_change";a:8:{s:4:"date";i:1524842947;s:2:"ip";s:14:"200.125.75.102";s:4:"type";s:1:"C";s:2:"id";s:15:"armado_de_hojas";s:4:"user";s:5:"mezka";s:3:"sum";s:64:"↷ Página movida de mesquita:armado_de_hojas a armado_de_hojas";s:5:"extra";s:0:"";s:10:"sizechange";i:1766;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"plugin_move";a:3:{s:6:"origin";s:15:"armado_de_hojas";s:5:"pages";a:2:{i:0;a:2:{i:0;s:15:"armado_de_hojas";i:1;s:24:"mesquita:armado_de_hojas";}i:1;a:2:{i:0;s:24:"mesquita:armado_de_hojas";i:1;s:15:"armado_de_hojas";}}s:5:"media";a:0:{}}s:11:"contributor";a:1:{s:5:"mezka";N;}}}

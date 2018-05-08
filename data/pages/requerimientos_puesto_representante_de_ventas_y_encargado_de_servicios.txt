@@ -1,0 +1,43 @@
+Representante de ventas y encargado de servicios
+======
+
+  *Reporta a: Direccion
+  *Reemplazado por: Area contable y/o administrativa
+
+----
+
+=====Responsabilidades directas=====
+----
+
+  *Asesoramiento de clientes potenciales
+  *Elaboracion de presupuestos
+  *Seguimiento de la venta
+  *Gestion administrativa de la venta
+  *Comunicarse con los clientes para coordinar trabajos de instalacion en el caso que se requieran
+  *Realizar la gestion administrativa de las instalaciones requeridas
+  *Brindar a los instaladores con los documentos e informacion necesarios para realizar los trabajos requeridos
+
+=====Responsabilidades indirectas=====
+----
+
+  *Mantener el orden en la oficina comercial
+
+=====Perfil de la persona a cubrir el puesto=====
+----
+
+====Formacion====
+
+  *Estudios universitarios o terciarios con orientacion a ventas (deseable).
+  *Estudios universitarios o terciarios con orientacion a la construccion.
+
+====Experiencia y conocimientos====
+
+  *Conocimientos intermedios de Excel
+  *Conocimientos basicos de AutoCad
+
+====Aptitudes====
+
+  *Responsabilidad
+  *Orden
+  *Buen manejo del sistema informatico de registro
+  *Buenas habilidades interpersonales

@@ -1,0 +1,76 @@
+======Compras y evaluación de proveedores======
+----
+
+=====Objetivo y alcance=====
+
+Establecer la metodología para controlar la compra insumos y la contratación de servicios, así como la evaluación, homologación y reevaluación de proveedores
+
+Este procedimiento es aplicable a todas las compras de insumos y contratación de servicios que afecten la calidad del producto y/o los servicios que brinda EQUIPAMIENTOS DE SEGURIDAD S.A.
+
+
+=====Responsabilidades=====
+
+__Responsable de compras:__ Responsable de efectuar las solicitudes de compra, registrar las OC emitidas y mantener estadísticas  cumplimento y evaluar en conjunto al RSGC el desempeño de los proveedores.
+
+__Responsable del sistema de gestión de calidad:__ Responsable de analizar el comportamiento de los proveedores, responsable del seguimiento de las acciones de mejora y/o reclamo a los proveedores.
+
+__Todas las areas:__ Efectúan los requerimientos de compra en función de las necesidades y stock, comunican desvíos en la calidad de productos y servicios contratados.
+
+=====Desarrollo=====
+
+__Gestión de Compras:__ Los requerimientos surgen del control de stock que realiza cada responsable de área ya sea para materias primas, productos/insumos o servicios (M/P/S)
+
+Por cada uno de los requerimientos el Responsable de Compras genera el registro R-19 Orden de Compra.
+
+En las órdenes de compra ya sea para contratación de servicios o compra de materiales (M/P/S) se realiza una detallada descripción con el fin de especificar correctamente el material o servicio solicitado. Indicando cuando sea aplicable: identificación clara del (M/P/S), Normas y especificaciones aplicables, Cantidad a suministrar, fecha de entrega, lugar y forma de entrega.
+
+Las especificaciones de los productos y servicios a comprar o contratar, se acuerdan con el proveedor y constan en la descripción de la Orden de Compra. Si el proveedor facilita un catálogo o ficha técnica, no  es necesario detallar las especificaciones, siendo suficiente la referencia del artículo a comprar. 
+Completa la Orden de compra la misma es remitida al proveedor vía mail, fax o telefónicamente Cuando llega un pedido, se realizan una serie de inspecciones.
+Se verifica que el material recibido se corresponde  con lo  que  consta en el  remito o factura. Para  ello se comparan el remito o factura  de entrega con la Orden de Compra emitida. Con esto también se comprueba que el precio se corresponde con lo pactado previamente con el proveedor y que el plazo de entrega se ajusta al establecido.
+
+También se realiza una verificación de los  productos recibidos para comprobar  que llegan en correctas condiciones de uso y acorde a los criterios establecidos (ficha técnica, catalogo o requisito especifico descrito sobre Orden de Compra o en el Plan de Inspección y ensayos en recepción procesos y producto final).
+
+Realizada  la  verificación  del  pedido o servicio y para  expresar  la conformidad  con el mismo, el Responsable de la Recepción sella y completa los campos correspondientes sobre el Remito o Factura y la entregan a  Administración para el seguimiento de las entregas y la formalización de cualquier observación o desvío.
+
+Todos los materiales verificados son identificados e ingresados al stock en condición de aprobados.
+
+En caso de que se detecte que alguno de los productos sea no conforme, se separa a la zona de productos no conformes. La recepción de este producto no conforme supone una incidencia con el proveedor,  con lo cual queda  registrada  en el R-05-06 Parte y Seguimiento de NC-OBS-OM-AC-AP. Estas No Conformidades deben ser trasmitidas al proveedor para su tratamiento. El seguimiento y cierre se efectúa de acuerdo al proceso descrito en P-03 Gestión de NC, OBS, OM, AC y AP
+
+Todos las No Conformidades  que se  han ido cubriendo  a  lo largo del año se presentan  a la Revisión  del Sistema por la Dirección, junto con el R-20-21 Listado y Evaluación de Proveedores Homologados  para conocer el estado y el comportamiento de los proveedores a lo largo del año. De su estudio y posibilidad de mejora queda constancia en  el  R-22 Informe de Revisión por la Dirección de  la manera descrita en el P-08 Revisión por la Dirección.
+
+
+=====Gestión de la evaluación de proveedores=====
+
+Deben ser homologados únicamente los proveedores de insumos o servicios que puedan afectar la calidad del producto/servicio que brinda EQUIPAMIENTOS DE SEGURIDAD S.A 
+A todo proveedor nuevo y cada vez que el responsable de compras lo considere necesario sin exceder nunca los 2 años, se debe realizar la evaluación inicial definida en R-21 Evaluación de Proveedores como metodología de selección.
+
+Todos los años como criterio de reevaluación se efectúa el seguimiento de acuerdo al resultado del ICP “Índice de Calidad del Proveedor”. 
+
+
+=====Criterios para el seguimiento anual=====
+
+ICP = 0.5 x Evaluación al Proveedor + 0.3 x Índice Calidad del Producto en Recepción (ICPR) + 0.2 x Índice Cumplimiento Fecha de Entrega (ICFE)
+
+Índice Calidad del Producto en Recepción (ICPR)
+
+Puntaje obtenido a través del índice de aceptación de los productos recibidos, el cual está dado por el porcentaje entre las cantidades aceptadas respecto a las cantidades recibidas, siendo el puntaje ideal 100.
+
+Índice Cumplimiento Fecha de Entrega (ICFE)
+
+Puntaje obtenido a través de índice de cumplimiento en fecha, el cual está dado por la entrega en la fecha requerida, siendo el puntaje ideal 100.
+
+Cuando no se registren entregas, se tomará el puntaje obtenido en el último año.
+
+Si como resultado de la evaluación el proveedor es rechazado, no se realizarán pedidos al mismo respecto de los ítems sobre los cuales fue evaluado como “No Satisfactorio”
+
+Proveedor Aprobado aquel que resulte con evaluación mayor o igual a 70 puntos 
+
+Proveedor Potencial aquel que resulte con evaluación entre 69 y 55*
+
+Proveedor Rechazado aquel que resulte con evaluación menor a 55 puntos
+
+*Al proveedor con puntuación Potencial se le podrán efectuar compras pero su régimen de reevaluación será semestral hasta tanto no califique como Aprobado
+
+Si como resultado de la reevaluación el proveedor mantiene su homologación, la misma se renueva por el término de un año. En el caso de que el desempeño del proveedor no haya sido satisfactorio, se efectúa la baja del proveedor y no se pueden adquirir del mismo los ítems respecto de los cuales ha sido evaluado. 
+
+

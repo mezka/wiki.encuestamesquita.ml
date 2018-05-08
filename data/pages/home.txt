@@ -1,0 +1,170 @@
+========SISTEMA DE GESTIÓN DE CALIDAD========
+
+Bienvendo al [[sistema_de_gestion_de_calidad|Sistema de Gestion de Calidad]] de Mesquita Hnos.
+
+
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+----
+=====PROCEDIMIENTOS=====
+----
+
+[[control_de_documentos | Control de Documentos]]
+
+[[control_de_registros | Control de Registros]]
+
+[[control_de_informacion_documentada | Informacion Documentada]]
+
+[[gestion_de_no_conformidades_y_reclamos | Control de no conformidades y reclamos]]
+
+[[auditorias_internas | Auditorias Internas]]
+
+[[satisfaccion_del_cliente | Satisfaccion del Cliente]]
+
+[[gestion_de_recursos_humanos | Gestion de Recursos Humanos]]
+
+[[compras_y_evaluacion_de_proveedores | Compras y evaluación de proveedores]]
+
+[[revision_por_la_direccion | Revision por la Direccion]]
+
+[[determinacion_de_los_requisitos_del_cliente | Determinacion de los requisitos del cliente]]
+
+[[procedimiento_de_produccion | Procedimiento de produccion]]
+
+[[copias_de_seguridad| Copias de seguridad]]
+
+=====REGISTROS=====
+----
+
+====Auditorias====
+
+[[https://docs.google.com/document/d/1oLkDd141XDp2RfIZVp6487rcjwbHq_BnC649ffWxBjM/edit?usp=sharing | Hoja de datos de la organización para IRAM (Plantilla)]]
+
+[[https://docs.google.com/spreadsheets/d/1wKC9IFs-I31zeLpJbde_tSw_vBcLg3eFA7dhk3KsHCA/edit?usp=sharing | Plan de auditorías internas]]
+
+===Auditoría Interna 2017===
+
+{{mesquita:antonela_neri_cv.pdf| CV Auditor Interno}}
+
+{{mesquita:certificado_auditor_interno_2017.jpeg?linkonly | Certificado Auditor Interno}}
+
+====Compras====
+todo
+
+====Encuestas====
+
+{{mesquita:modelo_encuesta_de_satisfaccion_del_cliente.pdf?linkonly | Modelo de encuesta de satisfacción del cliente}}
+
+
+[[http://encuestamesquita.ml/admin | Sistema online de creación, distribución y ejecución de encuestas]]
+====Indicadores====
+todo
+====Logistica====
+todo
+====Mantenimiento====
+====No conformidades y reclamos====
+todo
+====Ordenes de produccion====
+todo
+====Revisacion por la direccion====
+
+[[registro_informe_revision_por_direccion | Informe de revision por la direccion]]
+====Recursos humanos====
+
+===Requerimientos de los puestos de trabajo===
+
+[[requerimientos_puesto_auditor_interno | Auditor Interno]]
+
+[[requerimientos_puesto_auxiliar_administrativo_contable | Auxiliar administrativo-contable]]
+
+[[requerimientos_puesto_representante_de_ventas_y_encargado_de_servicios | Representante de ventas y encargado de servicios]]
+
+[[requerimientos_puesto_encargado_administrativo_contable | Encargado administrativo-contable]]
+
+[[requerimientos_encargado_de_produccion | Encargado de Producción]]
+
+[[requerimientos_instalador_de_herrajes_cerrajerias_y_accesorios | Instalador de herrajes, cerrajerías y accesorios]]
+
+[[requerimientos_pintor_de_carpinterias_metalicas | Pintor de carpinterías metalicas]]
+
+
+====Ventas====
+todo
+
+=====INSTRUCTIVOS=====
+----
+
+[[armado_marcos_abisagrado_hojas | Armado de marcos y abisagrado de hojas]]
+
+[[armado_de_hojas | Armado de hojas]]
+
+[[instalacion_cerrajerias_herrajes | Instalacion de cerrajerias y herrajes]]
+
+[[pintado_de_puertas | Pintado de puertas]]
+
+[[instalacion_de_puerta | Instalacion de una puerta]]
+
+[[obtencion_de_indicadores_tango_gestion | Obtener indicadores pre-configurados desde Tango Gestion]]
+
+=====DOCUMENTOS ANEXOS=====
+----
+[[politica_de_calidad | Politica de Calidad]]
+
+[[alcance_sistema_gestion_calidad | Alcance del sistema de gestión de calidad]]
+
+[[https://docs.google.com/spreadsheets/d/10thZJ1WjtWY-mtQBYCE89QGCoEyF9WIwTLCVw9WN9zQ/edit?usp=sharing | Diagrama de interaccion de procesos]]
+
+[[https://drive.google.com/open?id=1lmXFeuBvlREG1z3no6ReOHT7DJ08vv4D | Organigrama]]
+
+[[https://docs.google.com/spreadsheets/d/14CFO3FbkiDCdj-yQs4G5k1u9ZsMjcmCsCSYfpGfFR6k/edit?usp=sharing | Entradas y salidas de los procesos]]
+
+====Normas====
+
+{{ mesquita:norma_iram_11949.pdf | Norma IRAM 11949}}
+
+{{ mesquita:norma_iram_11950.pdf | Norma IRAM 11950}}
+
+{{ mesquita:norma_iram_11951.pdf | Norma IRAM 11951}}
+
+{{ mesquita:norma_iram_11952.pdf | Norma IRAM 11952}}
+
+{{ mesquita:norma_iso_9001_2015.pdf | Norma ISO 9001:2015}}
+
+====Certificados====
+
+{{:mesquita:certificado_placas_rojas.gif?linkonly | Certificado Placas Rojas}}
+
+{{:mesquita:certificado_europeo_novoferm_f60_simple.pdf?linkonly | Certificado europeo Novoferm F60 simple}}
+
+{{:mesquita:certificado_europeo_novoferm_f60_doble.pdf | Certificado europeo Novoferm F60 doble}}
+
+{{:mesquita:certificado_europeo_novoferm_f60_simple_vidriada.pdf | Certificado europeo Novoferm F60 simple vidriada}}
+
+{{:mesquita:certificado_europeo_novoferm_f120_doble.pdf | Certificado europeo Novoferm F120 doble}}
+
+{{:mesquita:certificado_europeo_novoferm_f120_simple.pdf | Certificado europeo Novoferm F120 simple}}
+
+{{:mesquita:certificado_inti_novoferm_f60_simple.pdf | Certificado INTI Novoferm F60 simple}}
+
+{{:mesquita:certificado_inti_f60_simple.pdf | Certificado INTI F60 simple}}
+
+{{:mesquita:certificado_inti_f60_doble.pdf | Certificado INTI F60 doble}}
+
+{{:mesquita:certificado_inti_f120_simple.pdf | Certificado INTI F120 simple}}
+
+
+====Repositorios de codigo fuente====
+
+[[https://github.com/mezka/agenciasegura.com | Repositorio agenciasegura.com]]
+
+[[https://github.com/mezka/espacioseguro.com | Repositorio espacioseguro.com]]
+
+[[https://github.com/mezka/vue-mesquita | Repositorio proyecto nuevo website Mesquita Hnos]]
+
+[[https://github.com/mezka/certificados_generator | Repositorio generador de certificados]]
+

@@ -1,0 +1,44 @@
+======Obtencion de indicadores pre-configurados desde Tango Gestion======
+----
+
+=====Objetivo=====
+----
+
+Definir los pasos necesarios para obtener los indicadores usados en el Sistema de Gestion de Calidad que nacen del uso del sistema ERP Tango Gestion
+
+=====Alcance=====
+----
+
+Este procedimiento es aplicable al area administrativa y al area de calidad
+
+=====Desarrollo=====
+----
+
+Primero debemos logearnos al sistema (puede usarse cualquier cuenta):
+
+{{:mesquita:instructivo_indicadores_0.png|}}
+
+Luego vamos a acceder a la funcion **Live** (clickear en el menu o presionar F7):
+
+{{:mesquita:instructivo_indicadores_1.png|}}
+
+Una vez abierto **Live**, en el menu inferior izquierdo seleccionamos **Mis consultas**:
+
+{{:mesquita:instructivo_indicadores_2.png|}}
+
+Dentro de mis consultas apreceran las consultas predefinidas que generan los indicadores, damos click en la consulta a realizar y luego en **Aceptar**:
+
+{{:mesquita:instructivo_indicadores_3.png|}}
+
+Finalmente se mostrara el indicador deseado:
+
+{{:mesquita:instructivo_indicadores_4.png|}}
+
+
+
+
+
+
+
+
+

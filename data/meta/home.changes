@@ -1,0 +1,66 @@
+1523978841	186.61.24.118	C	start	mezka	creado		7
+1523979520	186.61.24.118	E	start	calidadmesquita			4929
+1523981699	201.255.179.250	E	start	mezka			-3201
+1523982190	186.61.24.118	D	start	mezka	borrado		-1735
+1523983722	201.255.179.250	C	start	mezka	creado		515
+1523983857	201.255.179.250	E	start	mezka			43
+1523983888	201.255.179.250	E	start	mezka			-3
+1523985233	201.255.179.250	E	start	mezka	Linkeados los procedimientos		550
+1523985255	201.255.179.250	E	start	mezka	[PROCEDIMIENTOS] 		8
+1523985374	201.255.179.250	E	start	mezka	fix procedimientos		-2
+1523986345	201.255.179.250	E	start	mezka	agregado diagrama interaccion procesos		144
+1523996963	200.125.75.102	E	start		primer		285
+1523996977	200.125.75.102	E	start		[INSTRUCTIVOS] 		4
+1523997229	200.125.75.102	E	start		agregado dummy oragnigrama		37
+1523997248	200.125.75.102	E	start		formato		1
+1523998673	200.125.75.102	E	start		[REGISTROS] init		364
+1524004413	200.125.75.102	E	start	mezka			28
+1524006433	200.125.75.102	E	start	mezka	fix index		-22
+1524006666	200.125.75.102	E	start	mezka	[Auditorias] hoja iram plantilla		155
+1524012880	200.125.75.102	E	start	mezka	[Auditorias] added plan de auditorías internas		137
+1524012888	200.125.75.102	E	start	mezka	[Auditorias] 		1
+1524171840	200.125.75.102	E	start		[SISTEMA DE GESTIÓN DE DOCUMENTOS] 		31
+1524173445	200.125.75.102	E	start		[PROCEDIMIENTOS] typo		12
+1524175202	200.125.75.102	E	start		[PROCEDIMIENTOS] 		80
+1524490177	200.125.75.102	E	start		[Auditorias] 		59
+1524490291	200.125.75.102	E	start		[Auditorias] 		5
+1524490303	200.125.75.102	E	start		[Auditorias] 		11
+1524494308	200.125.75.102	E	start		[Auditorias] 		96
+1524500077	200.125.75.102	E	start				106
+1524501670	200.125.75.102	E	start				593
+1524501686	200.125.75.102	E	start		[Recursos humanos] 		6
+1524576421	201.255.227.162	E	start		[Revisacion por la direccion] 		79
+1524756250	200.125.75.102	E	start		[PROCEDIMIENTOS] 		66
+1524759680	200.125.75.102	E	start		[Mantenimiento] 		42
+1524764731	200.125.75.102	E	start		[DOCUMENTOS ANEXOS] 		48
+1524765769	200.125.75.102	E	start		[Encuestas] 		107
+1524765811	200.125.75.102	E	start		[Encuestas] 		7
+1524766221	200.125.75.102	E	start		[Encuestas] 		109
+1524767006	200.125.75.102	E	start		[DOCUMENTOS ANEXOS] Agregadas entradas y salidas de los procesos		143
+1524767800	200.125.75.102	E	start		[DOCUMENTOS ANEXOS] 		58
+1524767858	200.125.75.102	E	start		[DOCUMENTOS ANEXOS] 		24
+1524775107	200.125.75.102	E	start		[SISTEMA DE GESTIÓN DE DOCUMENTOS] 		-3
+1524775139	200.125.75.102	E	start		[SISTEMA DE GESTIÓN DE CALIDAD] 		-268
+1524775156	200.125.75.102	E	start				2
+1524776357	200.125.75.102	E	start		[DOCUMENTOS ANEXOS] 		209
+1524838134	200.125.75.102	E	start				-34
+1524838510	200.125.75.102	E	start		[DOCUMENTOS ANEXOS] 		59
+1524838599	200.125.75.102	E	start		[DOCUMENTOS ANEXOS] 		16
+1524842024	200.125.75.102	C	mesquita:start	mezka	↷ Página movida de start a mesquita:start		3908
+1524842948	200.125.75.102	C	start	mezka	↷ Página movida de mesquita:start a start		3908
+1524843040	200.125.75.102	C	home	mezka	↷ El nombre de la página cambió de start a home		3908
+1524844258	200.125.75.102	e	home	mezka	↷ Enlaces adaptados debido a una operación de mover		24
+1524847503	200.125.75.102	E	home	mezka			28
+1524847963	200.125.75.102	E	home	mezka	[Certificados] 		73
+1524849309	200.125.75.102	E	home	mezka	[Certificados]  agregados certificados, faltan algunos todavia		611
+1524849591	200.125.75.102	E	home	mezka	[Certificados] correccion		9
+1524850644	200.125.75.102	E	home	mezka	[Certificados] agregados más certificados		239
+1524851703	200.125.75.102	E	home	mezka	[Mantenimiento] 		-47
+1524851719	200.125.75.102	E	home	mezka	[PROCEDIMIENTOS] 		47
+1524851811	200.125.75.102	e	home	mezka	↷ Enlaces adaptados debido a una operación de mover		-13
+1524851828	200.125.75.102	E	home	mezka	[PROCEDIMIENTOS] 		-12
+1524852347	200.125.75.102	e	home	mezka	↷ Enlaces adaptados debido a una operación de mover		12
+1524852365	200.125.75.102	E	home	mezka	[PROCEDIMIENTOS] 		12
+1525283521	186.61.126.101	E	home	mezka	aniadidos repositorios de codigo fuente		384
+1525283535	186.61.126.101	E	home	mezka	[Repositorios de codigo fuente] 		3
+1525284169	186.61.126.101	E	home	mezka	[INSTRUCTIVOS] 		103

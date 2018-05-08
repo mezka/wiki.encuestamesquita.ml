@@ -1,0 +1,41 @@
+=======Satisfacción del cliente=======
+----
+
+=====Objetivo y alcance=====
+
+El objetivo del presente procedimiento es definir el sistema de medición y determinación del grado de satisfacción de nuestros clientes y su percepción con respecto al grado de cumplimiento de los requisitos del servicio prestado por EQUIPAMIENTOS DE SEGURIDAD S.A. Este procedimiento se aplica a todos los clientes a los cuales EQUIPAMIENTOS DE SEGURIDAD S.A  les presta sus servicios, de forma que se recabe la percepción de los clientes, tras el servicio prestado.
+
+=====Responsabilidades=====
+
+__Dirección:__ Delega en el Representante de la Dirección la Responsabilidad de analizar y utilizar la percepción del cliente, junto con el Responsable de Calidad, para establecer un cauce de mejora continua a través de la retroalimentación del cliente.
+RESPONSABLE DE ADMINISTRACIÓN Y COMERCIALIZACIÓN:
+
+  *Responsable de archivar la percepción del cliente (los R-09 Encuesta de Satisfacción del cliente).
+  *Responsable de la selección de los clientes para el seguimiento de la percepción al cliente
+  *Responsable de enviar el R-09 Encuesta de Satisfacción del Cliente
+
+__Responsable del [[sistema_de_gestion_de_calidad|Sistema de Gestión de la Calidad]]:__ Responsable de analizar y utilizar la percepción del cliente, junto con Gerencia, para establecer un cauce de mejora continua a través de la retroalimentación del cliente
+Responsable de recabar y registrar (totalizar el cómputo de la importancia y la valoración) la percepción del cliente con el fin de ser usados en la Revisión por la Dirección y para la generación de [[acciones_correctivas|acciones correctivas]] y [[acciones_preventivas|acciones preventivas]].
+
+=====Desarrollo=====
+
+El Responsable de administración y comercialización es el responsable de hacer llegar al cliente seleccionado mediante el uso de los canales de comunicación facilitados por EQUIPAMIENTOS DE SEGURIDAD S.A  (carta, fax, correo electrónico, etc.) el formato R-09 Encuesta de Satisfacción del Cliente y por lo tanto se responsabilizará de recoger la percepción del cliente, tras la finalización del servicio prestado a éste.
+El Cliente valorará la satisfacción percibida por él a dicho concepto (“percepción”, es decir, grado de cumplimiento de expectativas o grado de satisfacción), concediendo éste una valoración entre 5 categorías, donde la calificación “Malo” es la de menor valoración y la de “Excelente” la de valoración mayor. 
+Para los conceptos expresados en el cuestionario, R-09 Encuesta EQUIPAMIENTOS DE SEGURIDAD S.A el Jefe de Ventas intentará recopilar la valoración que recibe ese concepto en el servicio suministrado por EQUIPAMIENTOS DE SEGURIDAD S.A 
+El Jefe de Ventas reúne esta información (los cuestionarios cumplimentados) para su archivo, realiza el análisis  y refleja el porcentaje, considerando el 100% a la puntuación máxima posible.
+Los datos analizados a partir del registro R-10 Resultados de Encuestas son tomados en cuenta en la Revisión por la Dirección como datos de entrada para analizar y planificar futuras actuaciones tendentes a mejorar los aspectos en los que se identifica menor nivel de satisfacción. 
+
+Fundamentalmente, se tendrán en cuenta:
+
+a)	Observaciones y datos de interés expresados por el cliente.
+b)	% de valoración obtenida (puntos) frente a valoración máxima (puntos) posible. 
+
+
+=====Cursograma=====
+
+{{mesquita:encuesta_cursograma.png|}}
+
+
+=====Percepción negativa del cliente=====
+
+Ante percepciones negativas del cliente, ya sea por comentarios o por aspectos de la encuesta evaluados negativamente, las mismas se gestionaran a través de la herramienta de No Conformidades, expresada en el P-03 Gestión de de NC, OBS, OM, AC y AP.

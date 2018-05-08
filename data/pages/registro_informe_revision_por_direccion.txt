@@ -1,0 +1,103 @@
+======Informe de revision por la direccion======
+----
+
+En este informe se hace una reseña de la reunión realizada entre la Dirección, y el Representante de la Dirección para evaluar el estado del Sistema de Gestión de Calidad a la fecha.
+
+Para ello se analizaron y se tomaron como parámetro las siguientes fuentes de información:
+
+
+  -Los resultados de auditorías y evaluaciones de cumplimiento con los requisitos legales, otros requisitos que la organización suscriba, 
+  -La revisión de la política de calidad, la retroalimentación del cliente y las comunicaciones de las partes interesadas externas;
+  -El desempeño de los procesos, la conformidad del producto,
+  -El grado de cumplimiento de los objetivos y metas
+  -El estado de las acciones correctivas y preventivas,
+  -Las acciones de seguimiento de revisiones por la dirección previas,
+  -Los cambios que podrían afectar al sistema de gestión, incluyendo la evolución de los requisitos legales y otros requisitos relacionados con sus aspectos ambientales.
+  -Las recomendaciones para la mejora.
+
+=====Resultados de la revision=====
+
+^ Planes de accion ^ Reesponsable ^ Fecha propuesta de finalizacion ^ Resultado de las acciones ^
+|                  |              |                                 |                           |
+|                  |              |                                 |                           |
+
+Asistentes: Gustavo Mesquita, Facundo Vaccaro
+
+  -Los resultados de auditorías y evaluaciones de cumplimiento con los requisitos legales y otros requisitos que la organización suscriba.
+
+    *Se estableció un Plan de auditorías Internas para el año 2016, con alcance a todos los procesos del Sistema de Gestión. Dicha auditoría se realizó el día 23/03/2017 y como resultado se observó que falto seguimiento e implementación de algunas herramientas. En este sentido, se decidió contratar un RSGC externo que llevara adelante el sistema para ir alcanzando la madurez deseada.
+
+  -Revisión de la política de calidad, la retroalimentación del cliente y las comunicaciones de las partes interesadas externas, incluidas las quejas;
+
+    *La política de la empresa ha sido revisada por la Dirección, Gustavo Mesquita, quien ha aprobado la misma en su versión vigente.
+Se realizó la encuesta de satisfacción a todos los clientes activos durante el periodo 2016, aun no se han procesado los resultados ya que se está trabajando en aumentar el nivel de respuesta. Los clientes seleccionados se listan en el R-30.
+En cuanto a la recepción de reclamos a la fecha se registran  2 reclamos, en 2016 se relevaron cerca de 10, de los cuales no se tiene el registro correspondiente. La metodología aún se encuentra en incorporación y aprendizaje en cuento a la gestión y tratamiento.
+Los datos de reclamos se mantienen registrados y contabilizados de forma independiente con su correspondiente análisis tanto en el mismo registro como en el tablero de indicadores.
+
+  -El grado de cumplimiento de los objetivos y metas
+
+    *Por otro lado se han generado indicadores de calidad los cuales recientemente se han comenzado a medir en relación a reclamos, eficiencia y capacitación todos citados en el R-24 Indicadores, Objetivos y Metas.
+De forma general lo que se ha comenzado es a tomar la disciplina de medir, será necesario ir evaluando la evolución de dichos indicadores con el fin de adecuarlos a las necesidades de la empresa y generar una línea base como punto de partida que permita el establecimiento de objetivos coherentes.
+
+=====Reclamos del producto=====
+
+Los reclamos en los últimos años no ascienden a más del 2%, siendo el 50% de los mismos son generados por daños en el expreso que los transporta. La particularidad es que muchas veces el traslado del producto es por cuenta y orden del cliente. Para esto se está implementando una planilla de logística (R-51 CONTROL DE CARGA) en la que el transportista se hace cargo de que recibe las puertas en óptimas condiciones (o no) y además se le enviara a los clientes con esta condición una lectura en la condición de compra que aclare la responsabilidad sobre el producto. De todas maneras, si aún se generara el reclamo, queda a decisión de la Dirección las acciones a tomar.
+
+=====Encuestas de cliente=====
+
+Las encuestas reflejan una percepción positiva del producto. Se destacan los puntos de atención de los pedidos y ejecución de los mismos, así también como la asistencia técnica y la relación precio/calidad. De todas maneras la evaluación se realiza de manera constante debido a la estrecha relación con los clientes.
+Los puntos a mejorar y como desafío para el 2017, será mejorar los tiempos de entrega.
+
+=====Eficiencia de produccion=====
+
+Todos los lunes se realizan reuniones entre la Dirección, Ventas y Producción para diagramar el esquema de trabajo semanal. La planificación se documenta en el R-53 y R-54. El plan semanal promedio, según la capacidad de procesamiento y la demanda es de 20 hojas. Debido a la experiencia y a datos de venta, planteamos un objetivo de 95%. 
+Muchas veces la producción queda sujeta a la entrega del material plegado, hecho que en algunas oportunidades genera retraso. Por esto, se está planeado la adquisición de una plegadora y la incorporación de este proceso (hoy terciarizado) al de fabricación.
+
+=====Ventas=====
+
+Durante 2015 el promedio de venta fue de 1000 hojas/año, de las cuales un 20% solo era comercialización de un producto europeo. Durante 2016, ese porcentaje de importación se redujo en un 5%. Para este 2017 el desafío se centrara en el aumento de la producción en un 20%, basado en la reducción de los tiempos de entrega (también visto en la percepción del cliente) y en la optimización de los procesos (a través de la maduración del SGC).
+
+=====Estado de las acciones correctivas y preventivas=====
+
+Se observaron las No Conformidades, Acciones Correctivas y preventivas emitidas al día de la fecha, evidencia que el mecanismo de mejora no se encuentra totalmente implementado.
+
+A la fecha se registran solo desvíos y oportunidades de mejora en Auditorías Internas. Todas las No Conformidades se encuentran debidamente registras y se les ha efectuado seguimiento.
+
+La Dirección recomienda fuertemente el registro de todo desvío que afecte al Sistema de Gestión  y solicita particularmente la emisión de acciones preventivas como herramienta fundamental para la mejora y consecución de los objetivos
+
+
+=====Las acciones de seguimiento de revisiones por la dirección previas=====
+
+No hay revisiones por la Dirección anteriores
+
+
+=====Los cambios que podrían afectar al sistema de gestión=====
+
+Al momento de esta revisión no se detectan aspectos que puedan afectar al sistema  y generar la necesidad de cambios.
+Debido a que la política fue recientemente  establecida no se considera necesario realizar ninguna modificación
+
+=====Las recomendaciones para la mejora=====
+
+Durante la implementación y en función de la mejora continua durante el 2016 se ha trabajado en las siguientes mejoras.
+
+  *Mejorar identificación de sectores
+  *Orden limpieza y clasificación de materiales
+  *Armado de cabina de pintura para mejorar el acabado del producto.
+  *Capacitación de personal de pintura.
+  *Identificación de estanterías para el sector de producción
+  *Generación de un comedor para el sector de producción.
+  *Armar plan logístico para mejorar entrega.
+  *Incorporar el plegado al proceso.
+
+
+=====Resultados de la revisión=====
+
+^ Planes de acción ^ Responsable ^ Fecha propuesta de finalización ^ Resultado de las acciones ^
+| Como herramienta de mejora se recomienda a la dirección considerar efectuar auditorias sistema con frecuencia no mayor a 6 meses en función de los resultados de las auditorias previo y criticidad de los procesos. | RSGC | Jul-17|                                                                      |   
+| Completar la información pendiente de los Indicadores para el seguimiento de  objetivos.| RSGC/Gustavo | May-17|                            | 
+|Tomar acciones tendientes a concientizar en el registro de los desvíos en fábrica y llenado de registros | RSGC/Gustavo/Ramiro| Jul-17                         |                            |
+| Armar plan logístico| RSGC/Gustavo | Jul-17                         |                            |
+| Incorporar corte y plegado y ampliación de panta dedicada al almacenamiento y estibaje de puertas.
+                   | Gustavo            | Marz-18                        |                            |
+En base a lo anteriormente expuesto considero razonable el grado de implementación del sistema de gestión de la Calidad.
+No obstante ello considero que se debe continuar con todas las acciones previstas para alcanzar el 100% de los objetivos fijados.

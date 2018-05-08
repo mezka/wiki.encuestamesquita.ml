@@ -1,0 +1,43 @@
+======Determinación de los requisitos del cliente======
+----
+
+=====Objetivo y alcance=====
+----
+
+El presente procedimiento describe la forma  implementada por EQUIPAMIENTOS DE SEGURIDAD S.A para determinar los requisitos relacionados  con el servicio de nuestros  clientes, que posteriormente  se expresan en un presupuesto; incluyendo la metodología para revisar todos los requisitos, previamente  a  que EQUIPAMIENTOS DE SEGURIDAD S.A se comprometa a suministrar el producto.
+
+=====Responsabilidades=====
+----
+
+====Dirección====
+
+  *Revisa y aprueba la lista de precios y presupuestos emitidos.
+
+====Responsable del Sistema de Gestión de Calidad====
+
+  *Controla la documentación comercial, recopilar, analizar y hacer que se apliquen todos aquellos requisitos aplicables y legales que afecten a las actividades de EQUIPAMIENTOS DE SEGURIDAD S.A.
+
+====Representante de ventas====
+
+  *Documenta los requisitos del cliente
+  *Confirma con el cliente los requisitos del servicio
+  *Elabora los presupuestos
+  *Presenta el presupuesto al cliente
+  *Recopila y archiva la documentación comercial
+  *Genera las ordenes de producción,
+
+=====Desarrollo=====
+
+El proceso relacionado con el Cliente comienza con la solicitud del servicio por parte de éste. Esto se produce a través de los canales de comunicación que EQUIPAMIENTOS DE SEGURIDAD S.A facilita a sus clientes, como teléfono y mail, o bien directamente en las propias oficinas; para mantener, proporcionar y facilitar información sobre los servicios ofrecidos por la empresa.
+
+El responsable comercial debe asegurarse durante la comunicación con el Cliente que se establecen los requisitos  especificados  por  el  mismo para  la prestación del  servicio,  incluyendo  los elementos de apoyo necesarios y los requisitos no especificados directamente por el cliente pero necesarios para la prestación del servicio y suministro del producto previsto y que vaya a especificarse; igualmente se deben tener presentes los requisitos legales y reglamentarios que  obligatoriamente haya de cumplir el producto y/o servicio.
+
+Durante la comunicación con el Cliente el Responsable Comercial debe asegurarse de recolectar toda la información necesaria para elaborar el presupuesto y/o emitir el pedido. Se cuenta con una lista de precios que se utiliza para la realizacion de los presupuestos, en donde se destalla el precio unitario de cada material inolurado en cada obra.
+
+Si el cliente es nuevo se emite el presupuesto y envía al cliente para su evaluación.
+Una vez aprobado el presupuesto por el Cliente, EQUIPAMIENTOS DE SEGURIDAD S.A ya se encuentra en condiciones de tomar el pedido específico. Todos los presupustos son ingresados al TANGO y son numerados para su correcto seguimiento.
+
+Ademas son cargado en el R-50 Seguimiento de presupuestos.
+
+Así mismo una vez aprobado el presupuesto se definen las condiciones de venta (descuentos, bonificaciones, etc) sobre la lista de precios que emite y actualiza la dirección para cada cliente en particular.
+

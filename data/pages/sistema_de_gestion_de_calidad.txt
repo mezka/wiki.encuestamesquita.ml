@@ -1,0 +1,16 @@
+=======Sistema de Gestión de Calidad=======
+----
+
+=====Alcance=====
+----
+
+Comercialización y fabricación de puertas cortafuego con o sin homologación INTI, siendo la fabricación de puertas homologadas según la clasificaciónes: "F30, F60, F90 y F120” definidas en la norma {{ mesquita:norma_iram_11949.pdf |IRAM 11949}} y homologadas mediante ensayos en el INTI según las indicaciones de las normas {{ mesquita:norma_iram_11950.pdf |IRAM 11950}} y {{ mesquita:norma_iram_11951.pdf |11951}}.
+
+En base a las características del funcionamiento de **EQUIPAMIENTOS DE SEGURIDAD S.A** se excluye el requisito 7.3 Diseño y Desarrollo, de la norma ISO 9001:2008. Dicha exclusión se efectúa ya que los productos elaborados por **EQUIPAMIENTOS DE SEGURIDAD S.A** son estándares o sus requisitos y especificaciones han sido suministrados por sus clientes.
+
+Dicha exclusión no afecta a la capacidad o responsabilidad de la organización para proporcionar productos que cumplan con los requisitos de sus clientes y reglamentarios.
+
+=====Objetivo=====
+----
+
+

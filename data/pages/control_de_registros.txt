@@ -1,0 +1,65 @@
+======Control de registros======
+----
+
+=====Objetivo=====
+----
+
+Establecer la metodología para la elaboración, emisión, revisión, aprobación, distribución, control y mantenimiento actualizado de los Registros del Sistema de Gestión de Calidad (SGC). 
+
+=====Alcance=====
+----
+
+Este procedimiento aplicará a todas las áreas de la Organización, desde el momento en que se elabore, apruebe y/o modifique un nuevo Registro, hasta que se convierta en obsoleto.
+
+=====Responsabilidades=====
+----
+
+====Dirección====
+
+  *Delegar en el Representante de la Dirección la aprobación de todos los registros del SGC.
+
+====Representante de la dirección====
+
+  *Responsable de la aprobar todos los registros del SGC.
+
+====Responsable del Sistema de Gestión de Calidad====
+
+  *Responsable de identificar, emitir, distribuir, controlar y modificar los registros.
+  *Asistir a los Responsables de Procesos en la elaboración de los registros.
+
+====Responsables de Área====
+
+  *Garantizar la buena conservación y disponibilidad de los registros de su área respectiva.
+  *Revisar y actualizar los registros cuando lo considere necesario, notificando al Responsable del SGC.
+  *Garantizar que los registros emitidos sean legibles, fácilmente identificables, recuperables y establecer el tiempo de almacenamiento según las necesidades del departamento.
+
+=====Desarrollo=====
+----
+
+====Elaboración====
+
+  *Cuando los formatos de registros los permitan, por tamaño y disposición, se deberá incluir  el Logo de EQUIPAMIENTOS DE SEGURIDAD S.A, el Tipo de Documento, el Título y la Fecha de emisión.
+  *El Código y el Nivel de Revisión serán los únicos datos que necesariamente deben contener todos los registros para su correcto control e identificación.
+
+
+====Identificación====
+
+  *Los registros que sean obtenidos por vías distintas, tales como: software, emails, entre otros, pueden prescindir del código; sin embargo, los mismos deben ser fácilmente identificables.
+  *La asignación del código debe realizarse según la siguiente estructuración:
+
+====Control de registros====
+
+Todos los formatos se registrarán en R-04 Control de Registros. Esta lista contendrá los siguientes campos:
+
+  *Código
+  *Título
+  *Revisión
+  *Cumplimentación (Sectores responsables de la misma)
+  *Ubicación (lugar donde se archiva)
+  *Tiempo de conservación del Registro
+  *Forma de disposición de los Registros (destrucción, reciclado, etc.)
+
+Los Registros se distribuirán junto al Documento que los genere, tanto en la versión inicial, como en posteriores ediciones del mismo. Los formatos que no estén asociados a ningún documento se difundirán igual que los Procedimientos de la manera enunciada en el P-01 Control de Documentos.
+
+La propuesta de modificación de un Registro se entregará a los Responsables de su elaboración por escrito y mediante el R-05 Parte de NC/OM/AC/AP
+El Registro revisado tomará automáticamente el número correlativo de la revisión efectuada.

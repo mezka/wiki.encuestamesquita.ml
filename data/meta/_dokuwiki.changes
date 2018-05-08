@@ -1,0 +1,20 @@
+1524850644	200.125.75.102	E	home	mezka	[Certificados] agregados más certificados		239
+1524851703	200.125.75.102	E	home	mezka	[Mantenimiento] 		-47
+1524851719	200.125.75.102	E	home	mezka	[PROCEDIMIENTOS] 		47
+1524851811	200.125.75.102	C	backups	mezka	↷ El nombre de la página cambió de politica_de_backups a backups		562
+1524851811	200.125.75.102	D	politica_de_backups	mezka	↷ El nombre de la página cambió de politica_de_backups a backups		-562
+1524851811	200.125.75.102	e	home	mezka	↷ Enlaces adaptados debido a una operación de mover		-13
+1524851828	200.125.75.102	E	home	mezka	[PROCEDIMIENTOS] 		-12
+1524852215	200.125.75.102	E	backups	mezka			202
+1524852346	200.125.75.102	C	copias_de_seguridad	mezka	↷ El nombre de la página cambió de backups a copias_de_seguridad		764
+1524852346	200.125.75.102	D	backups	mezka	↷ El nombre de la página cambió de backups a copias_de_seguridad		-764
+1524852347	200.125.75.102	e	home	mezka	↷ Enlaces adaptados debido a una operación de mover		12
+1524852365	200.125.75.102	E	home	mezka	[PROCEDIMIENTOS] 		12
+1524857805	200.125.75.102	E	copias_de_seguridad	mezka			220
+1525279180	201.255.189.171	E	control_de_documentos	mezka	[Table] 		277
+1525279610	201.255.189.171	E	control_de_informacion_documentada	mezka	[Control de la información documentada] 		20
+1525282822	186.61.126.101	E	copias_de_seguridad	mezka			313
+1525283521	186.61.126.101	E	home	mezka	aniadidos repositorios de codigo fuente		384
+1525283535	186.61.126.101	E	home	mezka	[Repositorios de codigo fuente] 		3
+1525284169	186.61.126.101	E	home	mezka	[INSTRUCTIVOS] 		103
+1525285496	201.255.189.171	C	obtencion_de_indicadores_tango_gestion	mezka	creado		1064
