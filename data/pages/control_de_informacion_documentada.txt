@@ -11,7 +11,7 @@ Este procedimiento aplicará a todas las áreas de la Organización, desde el mo
 
 =====Referencias=====
 
-ISO 9001-2015. Cláusula 7.5.
+{{ mesquita:norma_iso_9001_2015.pdf | Norma ISO 9001:2015}} Cláusula 7.5.
 
 =====Definiciones=====
 

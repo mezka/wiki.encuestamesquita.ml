@@ -34,7 +34,7 @@ Los registros son un tipo especial de documento y los mismos se controlan de acu
 
 El Responsable de Área, elabora el borrador del nuevo documento con la colaboración de personal de los sectores involucrados y el RESPONSABLE DEL SGC.
 
-====Elaboracion====
+====Elaboración====
 
   * Todo documento debe ser elaborado usando la plantilla mostrada en el punto 4.3 “Formato”.
   * El encabezado debe incluir:

@@ -1,4 +1,4 @@
-======Obtencion de indicadores pre-configurados desde Tango Gestion======
+======Obtencion de indicador de eficiencia de ventas desde Tango Gestion======
 ----
 
 =====Objetivo=====

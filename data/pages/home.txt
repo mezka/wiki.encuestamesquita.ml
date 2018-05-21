@@ -38,6 +38,8 @@ Bienvendo al [[sistema_de_gestion_de_calidad|Sistema de Gestion de Calidad]] de 
 
 [[copias_de_seguridad| Copias de seguridad]]
 
+[[gestion_de_riesgo_y_oportunidades| Gestión de Riesgo y oportunidades]]
+
 =====REGISTROS=====
 ----
 
@@ -52,6 +54,8 @@ Bienvendo al [[sistema_de_gestion_de_calidad|Sistema de Gestion de Calidad]] de 
 {{mesquita:antonela_neri_cv.pdf| CV Auditor Interno}}
 
 {{mesquita:certificado_auditor_interno_2017.jpeg?linkonly | Certificado Auditor Interno}}
+
+[[plan_auditoria_interna_2018 | Plan de auditoria interna 2018]]
 
 ====Compras====
 todo
@@ -94,6 +98,10 @@ todo
 
 
 ====Ventas====
+todo
+
+====Calidad====
+
 todo
 
 =====INSTRUCTIVOS=====

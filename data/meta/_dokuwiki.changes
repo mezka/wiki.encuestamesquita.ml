@@ -1,20 +1,37 @@
-1524850644	200.125.75.102	E	home	mezka	[Certificados] agregados más certificados		239
-1524851703	200.125.75.102	E	home	mezka	[Mantenimiento] 		-47
-1524851719	200.125.75.102	E	home	mezka	[PROCEDIMIENTOS] 		47
-1524851811	200.125.75.102	C	backups	mezka	↷ El nombre de la página cambió de politica_de_backups a backups		562
-1524851811	200.125.75.102	D	politica_de_backups	mezka	↷ El nombre de la página cambió de politica_de_backups a backups		-562
-1524851811	200.125.75.102	e	home	mezka	↷ Enlaces adaptados debido a una operación de mover		-13
-1524851828	200.125.75.102	E	home	mezka	[PROCEDIMIENTOS] 		-12
-1524852215	200.125.75.102	E	backups	mezka			202
-1524852346	200.125.75.102	C	copias_de_seguridad	mezka	↷ El nombre de la página cambió de backups a copias_de_seguridad		764
-1524852346	200.125.75.102	D	backups	mezka	↷ El nombre de la página cambió de backups a copias_de_seguridad		-764
-1524852347	200.125.75.102	e	home	mezka	↷ Enlaces adaptados debido a una operación de mover		12
-1524852365	200.125.75.102	E	home	mezka	[PROCEDIMIENTOS] 		12
-1524857805	200.125.75.102	E	copias_de_seguridad	mezka			220
-1525279180	201.255.189.171	E	control_de_documentos	mezka	[Table] 		277
-1525279610	201.255.189.171	E	control_de_informacion_documentada	mezka	[Control de la información documentada] 		20
 1525282822	186.61.126.101	E	copias_de_seguridad	mezka			313
 1525283521	186.61.126.101	E	home	mezka	aniadidos repositorios de codigo fuente		384
 1525283535	186.61.126.101	E	home	mezka	[Repositorios de codigo fuente] 		3
 1525284169	186.61.126.101	E	home	mezka	[INSTRUCTIVOS] 		103
 1525285496	201.255.189.171	C	obtencion_de_indicadores_tango_gestion	mezka	creado		1064
+1525965556	201.255.244.249	E	home		Agregado todo registros calidad		23
+1525968050	186.61.71.138	E	home		[PROCEDIMIENTOS] 		75
+1525968282	201.255.244.249	C	gestion_de_riesgo_y_oportunidades		creado		16328
+1525969004	186.61.71.138	E	gestion_de_riesgo_y_oportunidades				46
+1525969070	186.61.71.138	C	contexto_de_la_organizacion		creado		198
+1525970619	201.255.244.249	E	gestion_de_riesgo_y_oportunidades				-159
+1525970679	201.255.244.249	C	partes_interesadas		creado		144
+1525970696	201.255.244.249	E	partes_interesadas				-1
+1525970812	201.255.244.249	E	gestion_de_riesgo_y_oportunidades				-137
+1525970941	201.255.244.249	E	gestion_de_riesgo_y_oportunidades				-94
+1525971088	201.255.244.249	E	gestion_de_riesgo_y_oportunidades		[DESARROLLO] 		-5
+1525971266	201.255.244.249	E	gestion_de_riesgo_y_oportunidades				34
+1525971925	186.61.71.138	E	control_de_informacion_documentada		[Referencias] 		45
+1525972403	201.255.244.249	E	home		[Auditorias] 		66
+1525972445	201.255.244.249	C	plan_auditoria_interna_2018		creado		68
+1526482441	186.61.105.122	E	gestion_de_riesgo_y_oportunidades				2
+1526482738	201.255.237.162	E	gestion_de_riesgo_y_oportunidades				73
+1526482829	201.255.237.162	E	gestion_de_riesgo_y_oportunidades				8
+1526482945	201.255.237.162	E	gestion_de_riesgo_y_oportunidades				1
+1526483009	201.255.237.162	E	gestion_de_riesgo_y_oportunidades				14
+1526483379	201.255.237.162	E	gestion_de_riesgo_y_oportunidades				25
+1526483679	201.255.237.162	E	gestion_de_riesgo_y_oportunidades				-3
+1526484120	186.61.105.122	E	control_de_documentos		[Elaboracion] 		1
+1526484270	201.255.237.162	E	gestion_de_riesgo_y_oportunidades				231
+1526484323	201.255.237.162	E	gestion_de_riesgo_y_oportunidades				0
+1526484712	201.255.237.162	E	gestion_de_riesgo_y_oportunidades				-19
+1526484824	201.255.237.162	E	gestion_de_riesgo_y_oportunidades				-4
+1526484960	201.255.237.162	E	gestion_de_riesgo_y_oportunidades				-83
+1526485675	186.61.105.122	E	gestion_de_riesgo_y_oportunidades				15
+1526488819	186.61.105.122	E	gestion_de_riesgo_y_oportunidades				43
+1526490645	186.61.105.122	E	obtencion_de_indicadores_tango_gestion				7
+1526490657	186.61.105.122	E	obtencion_de_indicadores_tango_gestion				-2
