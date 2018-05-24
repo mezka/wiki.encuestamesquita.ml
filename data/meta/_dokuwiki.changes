@@ -1,20 +1,3 @@
-1525282822	186.61.126.101	E	copias_de_seguridad	mezka			313
-1525283521	186.61.126.101	E	home	mezka	aniadidos repositorios de codigo fuente		384
-1525283535	186.61.126.101	E	home	mezka	[Repositorios de codigo fuente] 		3
-1525284169	186.61.126.101	E	home	mezka	[INSTRUCTIVOS] 		103
-1525285496	201.255.189.171	C	obtencion_de_indicadores_tango_gestion	mezka	creado		1064
-1525965556	201.255.244.249	E	home		Agregado todo registros calidad		23
-1525968050	186.61.71.138	E	home		[PROCEDIMIENTOS] 		75
-1525968282	201.255.244.249	C	gestion_de_riesgo_y_oportunidades		creado		16328
-1525969004	186.61.71.138	E	gestion_de_riesgo_y_oportunidades				46
-1525969070	186.61.71.138	C	contexto_de_la_organizacion		creado		198
-1525970619	201.255.244.249	E	gestion_de_riesgo_y_oportunidades				-159
-1525970679	201.255.244.249	C	partes_interesadas		creado		144
-1525970696	201.255.244.249	E	partes_interesadas				-1
-1525970812	201.255.244.249	E	gestion_de_riesgo_y_oportunidades				-137
-1525970941	201.255.244.249	E	gestion_de_riesgo_y_oportunidades				-94
-1525971088	201.255.244.249	E	gestion_de_riesgo_y_oportunidades		[DESARROLLO] 		-5
-1525971266	201.255.244.249	E	gestion_de_riesgo_y_oportunidades				34
 1525971925	186.61.71.138	E	control_de_informacion_documentada		[Referencias] 		45
 1525972403	201.255.244.249	E	home		[Auditorias] 		66
 1525972445	201.255.244.249	C	plan_auditoria_interna_2018		creado		68
@@ -35,3 +18,18 @@
 1526488819	186.61.105.122	E	gestion_de_riesgo_y_oportunidades				43
 1526490645	186.61.105.122	E	obtencion_de_indicadores_tango_gestion				7
 1526490657	186.61.105.122	E	obtencion_de_indicadores_tango_gestion				-2
+1526994329	186.60.132.210	E	home		[PROCEDIMIENTOS] 		33
+1526994589	186.60.132.210	C	comunicacion		creado		6405
+1526994680	186.60.132.210	E	comunicacion				43
+1526994715	186.60.132.210	E	comunicacion		[RESPONSABILIDAD] 		4
+1526994728	186.60.132.210	E	comunicacion		[RESPONSABILIDAD] 		1
+1526994784	186.60.132.210	E	comunicacion		[DESARROLLO] 		6
+1526995491	201.255.204.121	E	comunicacion		[DESARROLLO] 		-635
+1526995535	201.255.204.121	E	comunicacion		[Comunicación General] 		15
+1526995570	201.255.204.121	E	comunicacion		[Comunicación General] 		-8
+1526995970	201.255.204.121	E	comunicacion		[Comunicación General] 		2
+1526996163	201.255.204.121	E	comunicacion		[Comunicación General] 		36
+1526996204	201.255.204.121	E	comunicacion		[Comunicación General] 		6
+1526996234	201.255.204.121	E	comunicacion		[Comunicación General] 		6
+1526996252	201.255.204.121	E	comunicacion		[DOCUMENTOS DE REFERENCIA] 		11
+1526996838	186.60.132.210	E	home		[Calidad] 		21

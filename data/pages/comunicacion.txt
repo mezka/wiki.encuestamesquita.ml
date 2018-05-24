@@ -1,0 +1,74 @@
+=====PROCEDIMIENTO DE COMUNICACION=====
+|
+
+====OBJETIVO====
+
+El objetivo del presente procedimiento es definir la metodología para la comunicación interna y externa pertinentes al sistema de gestión de la calidad, como un proceso de apoyo a éste.
+
+====ALCANCE====
+
+Este procedimiento aplica a todas las áreas de la empresa. 
+
+====RESPONSABILIDAD====
+
+**DIRECCIÓN**. Proveer de los recursos necesarios para la correcta comunicación interna y externa. Seleccionar los medios para la correcta comunicación.
+
+**PERSONAL EN GENERAL.** Participar en la comunicación interna, informando accionares y prestando especial atención a las comunicaciones internas de la empresa. Participar de la comunicación externa de manera responsable con las partes interesadas.
+
+====DESARROLLO====
+
+===Comunicación Interna===
+
+La dirección de **EQUIPAMIENTOS DE SEGURIDAD S.A**, define a través del Organigrama (**M-01AX-03 Organigrama**) la autoridad formal de sus integrantes, siendo comunicada a todo el personal de la organización mediante la publicación en los diferentes sectores de la empresa.
+
+Las tareas y responsabilidades de cada integrante de la organización son definidas en los **R- 11 Requerimiento de Puestos de Trabajo** donde se describe claramente la función del cargo, de quien depende, sobre quien ejerce autoridad y que función debe cumplir.
+
+Todos los integrantes de **EQUIPAMIENTOS DE SEGURIDAD S.A** son responsables de la calidad de los productos y servicios suministrados a los clientes, como así también de las actividades de explotación de las instalaciones y de las medidas tomadas por la empresa.
+
+La dirección designa al Responsable del Sistema de Gestión de la Calidad (asesor externo) como responsable para implementar, evaluar y mantener los procesos necesarios para el cumplimiento del Sistema de Gestión, como así también mantener informado al resto de la Dirección sobre el desempeño y necesidades de mejora del mismo, asegurándose de que se promueva la toma de conciencia de los requisitos de las partes interesadas y el mantenimiento del SGC en todos los niveles de la organización. 
+
+**EQUIPAMIENTOS DE SEGURIDAD S.A**  considera que la comunicación interna es clave para el desarrollo de sus actividades y de vital importancia para mantener un nivel adecuado en la calidad de los procesos, productos y servicios. La  transmisión eficiente de la información constituye una herramienta adecuada siendo primordial para conseguir el compromiso de las personas en los objetivos de la empresa. 
+
+La Dirección de **EQUIPAMIENTOS DE SEGURIDAD S.A** se asegura de que se establezcan los procesos de comunicación adecuados dentro de la organización y que la comunicación se efectúe considerando la eficacia del Sistema de Gestión mediante la utilización de distintos canales de comunicación tales como: correo electrónico, carteleras informativas, reuniones y otros medios que sean convenientes y eficaces.
+
+
+===Comunicación Externa===
+
+La Dirección de **EQUIPAMIENTOS DE SEGURIDAD S.A** establece que cualquier tipo de comunicación externa (clientes, proveedores, partes externas interesadas, etc.) será recibida en primera instancia, por la Administración, quien estará a cargo de derivar dichas comunicaciones o tratarlas según corresponda. Asimismo, cualquier reclamo proveniente de partes externas como por ejemplo clientes, proveedores, serán gestionadas como reclamos según se indica en el P-03 Gestión de NC, OM, R y AC. En el caso particular de los reclamos, los mismos son derivados al sector de Ventas para ser registrados.
+
+Dependiendo el caso, ya sea el RSGC o quien corresponda, será quien reciba, documente e informe y de respuestas a las inquietudes de las partes externas interesadas (Municipio, Ministerio de trabajo Nacional y Provincial, ART, Comunidad en general, Clientes, Proveedores, etc.)
+
+Cabe destacar, que en cuanto a lo relacionado con el grado de satisfacción de los clientes respecto a los productos y servicios que comercializa **EQUIPAMIENTOS DE SEGURIDAD S.A**, se realiza una medición del grado de satisfacción de los clientes como se indica en el procedimiento P-05 Satisfacción del Cliente. Se cuenta también con un sistema de gestión de Reclamos, el cual se detalla en el P-03 Gestión de NC, OM, R y AC.
+
+====Comunicación General=====
+
+Las Especificaciones de Producto se comunican ante un cambio o solicitud, es el sector de ventas o la Direccion el encargado de informar la misma.
+
+Toda metodología de Trabajo será transmitida de forma verbal, ante un cambio, una consulta o incorporación de personal, esta será transmitida por la Dirección o el Jefe de Planta.
+
+Los cambios en infraestructura serán comunicados al Personal Interno por la Dirección en una reunión y las mudanzas en caso de realizarse a todas las partes interesadas vía e-mail por la Administración.
+
+El Organigrama (**M-01AX-03 Organigrama**) de **EQUIPAMIENTOS DE SEGURIDAD S.A**  y su Política de Calidad se darán a conocer mediante la entrega del Documento pertinente publicado en cartelera, en los distintos sectores y disponible en la pagina web para las partes interesadas externas.
+
+Los Objetivos y el estado de los mismos se informarán al cierre o ante solicitud mediante documentación/publicación de los mismos.
+
+//**Las comunicaciones internas y externas que tengan que ver con el Sistema de Gestión de la Calidad se han determinado en un registro **R-57 Agenda de Comunicación** en el cual se han establecido de forma interna y externa:**//
+
+  * el asunto a comunicar
+  * quién comunica
+  * qué comunica
+  * a quién comunica
+  * cuándo comunica
+  * cómo comunicar
+
+
+====DOCUMENTOS DE REFERENCIA====
+
+  * R- 11 Requerimiento de Puestos de Trabajo
+  * P-03 Gestión de NC, OM, R y AC.
+  * P-05 Satisfacción del Cliente
+  * M-01AX-03 Organigrama 
+  * R-57 Agenda de comunicación
+
+
+	

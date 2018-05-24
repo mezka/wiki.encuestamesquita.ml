@@ -40,6 +40,8 @@ Bienvendo al [[sistema_de_gestion_de_calidad|Sistema de Gestion de Calidad]] de 
 
 [[gestion_de_riesgo_y_oportunidades| Gestión de Riesgo y oportunidades]]
 
+[[comunicacion| Comunicación]]
+
 =====REGISTROS=====
 ----
 
@@ -101,6 +103,8 @@ todo
 todo
 
 ====Calidad====
+
+===Comunicación===
 
 todo
 
